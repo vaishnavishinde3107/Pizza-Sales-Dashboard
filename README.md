@@ -19,7 +19,7 @@ This project involves building an interactive and visually appealing dashboard i
 - **Interactive Filters**: Day-based slicer to filter all visualizations dynamically.
 
 ## Dataset
-The dataset was sourced from [Kaggle - Pizza Sales Data](https://www.kaggle.com/datasets). Data preprocessing included:
+The dataset was sourced from https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset. Data preprocessing included:
 - Removing nulls and blanks
 - Fixing formatting inconsistencies
 - Transforming date formats and numeric values
